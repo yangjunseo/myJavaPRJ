@@ -10,7 +10,7 @@ public class EX04_02 {
         result1 = a + b * c;
         System.out.printf("%d+%d*%d=%d \n", a, b, c, result1);
 
-        result2 = a * b / (float) c;
+        result2 = a * b / (float) c; // c=> 4.0
         System.out.printf("%d*%d/%d=%f \n", a, b, c, result2);
 
         mok = c / b;
