@@ -7,5 +7,5 @@ public class Ex05_02 {
             System.out.printf("거짓이므로 이 문장은 안보이겠죠?\n");
 
             System.out.printf("프로그램 끝!\n");
+        }
     }
-}
